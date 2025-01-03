@@ -21,7 +21,8 @@ Este projeto é um **sistema de login simples em Python**, que utiliza um arquiv
 - Json
 - Python 3
 
-### 1️⃣ **Clone o Repositório**
+## 📝 **Contato**
 ```bash
-git clone https://github.com/HenryAnjos/Sistema-de-Login.git
-
+- Autor: Henry Igidio dos Anjos
+- LinkedIn: https://www.linkedin.com/in/henry-igidio-a92943269/
+- GitHub: https://github.com/HenryAnjos
